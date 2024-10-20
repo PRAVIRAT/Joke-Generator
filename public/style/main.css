@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-image: linear-gradient( to left, #E2F1E7, #DFF5FF);
+}
+
+.fx{
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+h2{
+    font-size: 3em;
+}
+
+.butt{
+    background-color: #3ABEF9;
+    color: black;
+    font-size: 2em;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+p{
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover{
+    background-color: aliceblue;
+}
+
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+}
+
+.joke{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+}
+
+
+
